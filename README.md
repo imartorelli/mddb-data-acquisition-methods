@@ -13,7 +13,7 @@ Sources can be open publications (i.e. such as journal articles) and structured 
 
 ## folder overview
 
-1. PDF-parse-collect.py : a script where you provide the DOI of the article and collects the data sources related to the publication (source: ../LU_projects/methods/scripts/Data_acquisition/FetchSRAfromPDF/UpdatedVersion) upload
+1. [PDF-parser](https://github.com/imartorelli/mddb-data-acquisition-methods/tree/main/PDF-parser) : contains the `PDF-parser-collect.py` script where you provide the DOI of the article and collects the data sources related to the publication (source: ../LU_projects/methods/scripts/Data_acquisition/FetchSRAfromPDF/UpdatedVersion) upload
 
 
 
